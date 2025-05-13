@@ -8,32 +8,32 @@
     ],
   "repository": "https://github.com/avipatilpro/FileStreamBot/",
   "success_url": "/",
-  "logo": "https://i.ibb.co/ZJzJ9Hq/link-3x.png",
+  "logo": "https://ibb.co/DDbFRQBP",
   "env": {
     "ENV": {
       "description": "Set this to True if you don't want to crash the bot",
       "value": "True"
     },
     "API_ID": {
-      "description": "Get this value from https://my.telegram.org"
+      "description": "23790461"
     },
     "API_HASH": {
-      "description": "Get this value from https://my.telegram.org"
+      "description": "2d0a7fb85f06246e93948bf7afc05fb3"
     },
     "BOT_TOKEN": {
-      "description": "Get this value from @BotFather"
+      "description": "8125069376:AAGS-8bKxsZb3kOsxufp3I3D2nsbFTQz__w"
     },
     "FLOG_CHANNEL": {
-      "description": "ID of Channel Where store files sent by users. Read the readme for more info about this var"
+      "description": "-1002654701895"
     },
     "ULOG_CHANNEL": {
       "description": "ID of Channel Where store New Users data. Read the readme for more info about this var"
     },
     "OWNER_ID": {
-      "description": "Your Telegram User ID as Owner"
+      "description": "929048904"
     },
     "DATABASE_URL": {
-      "description": "MongoDB URI for saving User Data and Files List created by user."
+      "description": "mongodb+srv://Rax:amit7001@cluster0.cintttk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
     },
     "AUTH_USERS": {
       "description": "Put IDs of Auth Usrs where bot will work. You can add multiple IDs & separate with Space.",
